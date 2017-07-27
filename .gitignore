@@ -1,9 +1,8 @@
-*.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
-.externalNativeBuild
+# Created by .ignore support plugin (hsz.mobi)
+.gradle/
+.idea/libraries/
+.idea/workspace.xml
+PracticeDraw1.iml
+app/app.iml
+build/
+local.properties
